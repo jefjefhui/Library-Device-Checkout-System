@@ -15,7 +15,7 @@ The flow of the program is quite simple. When the program starts, it will displa
 
 ![startProgram](https://github.com/jefjefhui/Library-Device-Checkout-System/assets/73283123/349a9e99-ba97-42f2-81ec-d6db5006a6e2)
 
-The image above shows how the program looks like after the run button it hit. User need to pick one item from the menu.
+The image above shows how the program looks like after the run button is hit. User need to pick one item from the menu.
 
 
 
@@ -55,7 +55,7 @@ In the image above, it shows the device we checkout earlier is being checked out
 ![press6final](https://github.com/jefjefhui/Library-Device-Checkout-System/assets/73283123/683e3cb6-501b-4045-91c2-3d95a778f1ae)
 
 
-In the image above, it shows what will happen after entering 6. After entering 6, the program allows the user to check in devices. The program will display a list of checkout device, user need to pick one device from the list. Afterwards, the device is checked in successfully. The text "Device checked in" will be printed on the screen. You can press enter to continue.
+In the image above, it shows what will happen after entering 6. After entering 6, the program allows the user to check in devices. The program will display a list of checkout device, user needs to pick one device from the list. Afterwards, the device is checked in successfully. The text "Device checked in" will be printed on the screen. You can press enter to continue.
 
 
 ![press6(2)](https://github.com/jefjefhui/Library-Device-Checkout-System/assets/73283123/bc703975-42d8-40ca-9d4c-c88c08e086b2)
